@@ -1,7 +1,0 @@
-/Users/KojiMinoda/git/conc_oreilly/chapter05/rust_epoll/target/debug/deps/pin_project_lite-a8cbf2d117032b57.rmeta: /Users/KojiMinoda/.cargo/registry/src/github.com-1ecc6299db9ec823/pin-project-lite-0.2.9/src/lib.rs
-
-/Users/KojiMinoda/git/conc_oreilly/chapter05/rust_epoll/target/debug/deps/libpin_project_lite-a8cbf2d117032b57.rlib: /Users/KojiMinoda/.cargo/registry/src/github.com-1ecc6299db9ec823/pin-project-lite-0.2.9/src/lib.rs
-
-/Users/KojiMinoda/git/conc_oreilly/chapter05/rust_epoll/target/debug/deps/pin_project_lite-a8cbf2d117032b57.d: /Users/KojiMinoda/.cargo/registry/src/github.com-1ecc6299db9ec823/pin-project-lite-0.2.9/src/lib.rs
-
-/Users/KojiMinoda/.cargo/registry/src/github.com-1ecc6299db9ec823/pin-project-lite-0.2.9/src/lib.rs:
